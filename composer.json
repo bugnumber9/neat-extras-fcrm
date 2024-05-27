@@ -1,0 +1,5 @@
+{
+    "require": {
+        "bjoernffm/spintax": "^1.0"
+    }
+}

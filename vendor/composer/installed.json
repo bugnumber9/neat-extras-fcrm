@@ -1,0 +1,72 @@
+{
+    "packages": [
+        {
+            "name": "bjoernffm/spintax",
+            "version": "v1.0.2",
+            "version_normalized": "1.0.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bjoernffm/spintax.git",
+                "reference": "f03f1aa32d0eb0b7a4e82cc0dcb3ee50bfb26152"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bjoernffm/spintax/zipball/f03f1aa32d0eb0b7a4e82cc0dcb3ee50bfb26152",
+                "reference": "f03f1aa32d0eb0b7a4e82cc0dcb3ee50bfb26152",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^8.5"
+            },
+            "time": "2021-03-03T18:39:01+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Rafał Wrzeszcz",
+                    "email": "rafal.wrzeszcz@wrzasq.pl",
+                    "homepage": "http://wrzasq.pl/",
+                    "role": "creator,manager,architect,developer"
+                },
+                {
+                    "name": "Chillout Development",
+                    "email": "biuro@chilldev.pl",
+                    "homepage": "http://chilldev.pl/",
+                    "role": "owner"
+                },
+                {
+                    "name": "Bjoern Ebbrecht",
+                    "email": "bjoern.ebbrecht@gmail.com",
+                    "homepage": "https://github.com/bjoernffm",
+                    "role": "owner"
+                }
+            ],
+            "description": "Spintax {parsing|processing} library.",
+            "homepage": "https://github.com/bjoernffm/spintax",
+            "keywords": [
+                "content generator",
+                "seo",
+                "spintax"
+            ],
+            "support": {
+                "issues": "https://github.com/bjoernffm/spintax/issues",
+                "source": "https://github.com/bjoernffm/spintax"
+            },
+            "install-path": "../bjoernffm/spintax"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
